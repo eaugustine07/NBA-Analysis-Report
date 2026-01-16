@@ -132,14 +132,4 @@ A more comprehensive dataset could improve predictive insights.
 
 ---
 
-## 🤖 AI Usage Disclosure
-
-ChatGPT was used for:
-- Plot formatting assistance
-- Code structure suggestions
-
-All analysis, interpretations, and conclusions were written by the author.
-
----
-
 ## 📂 Project Structure
