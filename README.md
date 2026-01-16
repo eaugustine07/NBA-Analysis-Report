@@ -129,7 +129,3 @@ A more comprehensive dataset could improve predictive insights.
 - **Matplotlib**
 - **Seaborn**
 - **Google Colab / Jupyter Notebook**
-
----
-
-## 📂 Project Structure
